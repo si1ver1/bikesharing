@@ -2,6 +2,7 @@
 
 ## Overview of Project
 The goal of this assignment is to use tableau to visualize bike sharing data so garner support for a new business proposal.
+[link to dashboard](https://public.tableau.com/profile/adam4329#!/vizhome/trips_16034237841900/CheckoutTimesforUsersViz)
 
 ### Results of Mapping Earthquakes
 Our initial chart was to display the starting and ending locations. We can easily see that most of the starting and ending locations are in the middle of the city.
